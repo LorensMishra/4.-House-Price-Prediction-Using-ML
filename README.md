@@ -699,7 +699,7 @@ If you use this project in your research, please cite:
   title = {House Price Prediction Using Machine Learning},
   author = {Lorens Mishra},
   year = {2024},
-  url = {https://github.com/LorensMishra/4.-House-Price-Prediction-Using-ML}
+  url = {https://github.com/LorensMishra/House-Price-Prediction-Using-ML}
 }
 ```
 
